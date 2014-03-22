@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">Carbon Fibers</string>
+    <string name="app_name">Ground Zero</string>
 
     <!-- Header Strings -->
     <string name="user_interface">Interfaccia</string>
@@ -53,8 +53,8 @@
     <string name="time_9_seconds">9 secondi</string>
     <string name="time_10_seconds">10 secondi</string>
 
-    <!-- About Carbon Strings -->
-    <string name="about_carbon_title">A proposito di Carbon</string>
+    <!-- About GZOKP Strings -->
+    <string name="about_carbon_title">A proposito di GZOKP</string>
 
     <!-- General Strings -->
     <string name="advanced_settings">Impostazioni Avanzate</string>
@@ -777,7 +777,7 @@
     <string name="lockscreen_style_reset_message">Azzera tutti i colori blocco schermo?</string>
     <string name="lockscreen_icon_title">Icona maniglia sblocco</string>
     <string name="lockscreen_lock_icon_custom">Icona personalizzata</string>
-    <string name="lockscreen_lock_icon_carbon">Icona Carbon</string>
+    <string name="lockscreen_lock_icon_carbon">Icona GZOKP</string>
     <string name="lockscreen_lock_icon_default">Icona default</string>
     <string name="lockscreen_colorize_handle_title">Colore maniglia personalizzata</string>
     <string name="lockscreen_colorize_handle_summary">Il colore verrà applicato alla maniglia di sblocco</string>

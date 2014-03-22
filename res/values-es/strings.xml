@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">Carbon Fibers</string>
+    <string name="app_name">Ground Control</string>
 
     <!-- Header Strings -->
     <string name="user_interface">Interfaz</string>
@@ -53,8 +53,8 @@
     <string name="time_9_seconds">9 segundos</string>
     <string name="time_10_seconds">10 segundos</string>
 
-    <!-- About Carbon Strings -->
-    <string name="about_carbon_title">Acerca de Carbon</string>
+    <!-- About GZOKP Strings -->
+    <string name="about_GZOKP_title">Acerca de GZOKP</string>
 
     <!-- General Strings -->
     <string name="advanced_settings">Opciones avanzadas</string>
@@ -774,7 +774,7 @@
     <string name="lockscreen_style_reset_message">¿Restablecer colores del bloqueo de pantalla?</string>
     <string name="lockscreen_icon_title">Icono del anillo</string>
     <string name="lockscreen_lock_icon_custom">Icono personalizado</string>
-    <string name="lockscreen_lock_icon_carbon">Icono Carbon</string>
+    <string name="lockscreen_lock_icon_carbon">Icono GZOKP</string>
     <string name="lockscreen_lock_icon_default">Icono predeterminado</string>
     <string name="lockscreen_colorize_handle_title">Colorear anillo personalizado</string>
     <string name="lockscreen_colorize_handle_summary">El color del anillo será como el de la huella</string>

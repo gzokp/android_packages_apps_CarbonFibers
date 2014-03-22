@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">Carbon Fibers</string>
+    <string name="app_name">Ground Zero</string>
 
     <!-- Header Strings -->
-    <string name="user_interface">Interface</string>
+    <string name="user_interface">Operations</string>
     <string name="bars">Bar Interface</string>
     <string name="system">System</string>
     <string name="cancel">Cancel</string>
@@ -25,7 +25,7 @@
     <string name="title_clipboard_share">Copy to Clipboard</string>
 
     <!-- T-Mobile Theme chooser settings  -->
-    <string name="themes_title">Themes</string>
+    <string name="themes_title">Deviations</string>
 
     <!-- Share to clipboard -->
     <string name="clipboard_notification">Copied to clipboard</string>
@@ -56,7 +56,7 @@
     <string name="time_10_seconds">10 seconds</string>
 
     <!-- About Carbon Strings -->
-    <string name="about_carbon_title">About Carbon</string>
+    <string name="about_carbon_title">About Ground Zero</string>
 
     <!-- General Strings -->
     <string name="advanced_settings">Advanced settings</string>
@@ -205,7 +205,7 @@
     <string name="title_tile_bluetooth">Bluetooth</string>
     <string name="title_tile_brightness">Brightness</string>
     <string name="title_tile_camera">Camera</string>
-    <string name="title_tile_carbon">Carbon</string>
+    <string name="title_tile_carbon">GZOKP</string>
     <string name="title_tile_sleep">Go to sleep</string>
     <string name="title_tile_gps">GPS</string>
     <string name="title_tile_torch">Torch</string>
@@ -852,7 +852,7 @@
     <string name="lockscreen_style_reset_message">Reset all lockscreen colors?</string>
     <string name="lockscreen_icon_title">Lock handle icon</string>
     <string name="lockscreen_lock_icon_custom">Custom icon</string>
-    <string name="lockscreen_lock_icon_carbon">Carbon icon</string>
+    <string name="lockscreen_lock_icon_carbon">GZOKP icon</string>
     <string name="lockscreen_lock_icon_default">Default icon</string>
     <string name="lockscreen_colorize_handle_title">Colorize custom handle</string>
     <string name="lockscreen_colorize_handle_summary">Lock color will be set to the lock handle</string>

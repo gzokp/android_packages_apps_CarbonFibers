@@ -32,8 +32,6 @@ import android.widget.ListView;
 import com.carbon.fibers.R;
 import com.carbon.fibers.preference.SettingsPreferenceFragment;
 
-import com.android.internal.util.nameless.NamelessUtils;
-
 public class PowerMenuFragment extends SettingsPreferenceFragment {
 
     @Override
@@ -54,9 +52,6 @@ public class PowerMenuFragment extends SettingsPreferenceFragment {
             int paddingBottom = list.getPaddingBottom();
             list.setPadding(0, paddingTop, 0, paddingBottom);
         }
-
-        findPreference(Settings.System.POWER_MENU_ONTHEGO_ENABLED).setEnabled(
-                NamelessUtils.hasCamera(getActivity()));		
         return view;
     }
 
